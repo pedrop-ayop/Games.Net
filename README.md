@@ -44,13 +44,13 @@ O principal objetivo do Games.Net é:
 
 A tela inicial apresenta o **Games.Net** e sua identidade visual, funcionando como ponto de entrada para o aplicativo.
 
-![Tela inicial do Games.Net](2foto.png)
+![Tela inicial do Games.Net](1foto.png)
 
 ### Catálogo de jogos
 
 A tela de jogos apresenta os títulos disponíveis, juntamente com informações como quantidade de curtidas e seguidores.
 
-![Catálogo de jogos](1foto.png)
+![Catálogo de jogos](2foto.png)
 
 ### Página de detalhes
 
